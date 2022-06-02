@@ -50,4 +50,6 @@ I am a Full Stack Junior Developer <img src="https://media.giphy.com/media/WUlpl
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlagshipDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlagshipDev&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlagshipDev)](https://github.com/anuraghazra/github-readme-stats)
